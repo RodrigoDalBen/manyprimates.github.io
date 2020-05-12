@@ -4,7 +4,7 @@ subtitle:
 email: manyprimates@gmail.com
 description: Establishing a Culture of Collaboration in Primate Cognition Research
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://rodrigodalben.manyprimates.github.io" # the base hostname & protocol for your site
+url:  https://rodrigodalben.github.io/manyprimates.github.io/. # the base hostname & protocol for your site
 author: ManyPrimates
 lang: en_US
 
